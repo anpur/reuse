@@ -13,5 +13,5 @@ Here are cmdlets from `Reuse` module:
  - `Invoke-CmdletWithDefaults` Invokes any cmdlet with arguments from Hashtable or JSON file
  - `Set-DefaultsToTemplate` Creates file replacing placeholders with values from Hashtable or JSON file
  - `Update-WithDefaults` Replaces placeholders in string with values from Hashtable or JSON file
- 
- Execute `Get-Help <CMDLET-NAME> -Full` to get detailed help about any particular cmdlet from this list.
+
+Execute `Get-Help <CMDLET-NAME> -Full` to get detailed help about any particular cmdlet from this list.
